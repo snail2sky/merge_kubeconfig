@@ -23,3 +23,4 @@ cat ./merged.yaml
 ```
 
 Have a good time!
+
