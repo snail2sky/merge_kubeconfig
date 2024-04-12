@@ -24,3 +24,9 @@ cat ./merged.yaml
 
 Have a good time!
 
+!!!
+## Current command functionality has been merged into `https://github.com/snail2sky/bbx`
+## usage
+```bash
+bbx merge kubeconfig -c CONFIG_DIR MERGED_FILENAME
+```
